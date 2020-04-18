@@ -13,7 +13,7 @@ app.use(bodyParser.json());
 
 //Routes
 app.get("/", function (req, res) {
-  res.send("Hi, Im Ahmed.......");
+  res.send("Hi, Im Ahmed... :)");
 });
 
 // Facebook
